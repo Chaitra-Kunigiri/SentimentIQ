@@ -110,7 +110,8 @@ Open the local URL displayed in your terminal to access the application.
 
 ## Application Screenshots
 
-Screenshots of the SentimentIQ web application will be added here.
+<img width="1909" height="792" alt="Batch_Analysis" src="https://github.com/user-attachments/assets/63b5fb10-5d45-4ed7-a3d2-ce42ca4bdfd5" />
+
 
 ## Limitations
 
