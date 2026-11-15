@@ -111,6 +111,12 @@ Open the local URL displayed in your terminal to access the application.
 ## Application Screenshots
 
 <img width="1909" height="792" alt="Batch_Analysis" src="https://github.com/user-attachments/assets/63b5fb10-5d45-4ed7-a3d2-ce42ca4bdfd5" />
+<img width="1872" height="753" alt="Home_Dashboard" src="https://github.com/user-attachments/assets/b5a9da9d-c12f-48f1-99bf-feccbe364ccd" />
+<img width="1859" height="771" alt="Screenshot 2026-11-15 104232" src="https://github.com/user-attachments/assets/8d51f172-d5aa-4f74-8e02-82f2de46f911" />
+<img width="1885" height="736" alt="Screenshot 2026-11-15 104253" src="https://github.com/user-attachments/assets/445f739b-5f76-4387-8186-1ffedc6a1455" />
+<img width="1896" height="782" alt="Screenshot 2026-11-15 105343" src="https://github.com/user-attachments/assets/8000b353-0249-4db5-a11c-0ade3ee064ec" />
+<img width="1848" height="770" alt="Screenshot 2026-11-15 105730" src="https://github.com/user-attachments/assets/4d5323f5-fba3-4edd-8966-5b397b0a3786" />
+
 
 
 ## Limitations
