@@ -1,0 +1,19 @@
+{
+  "project": "SentimentIQ",
+  "model_type": "LogisticRegression",
+  "classes": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "vocabulary_size": 10000,
+  "ngram_range": [
+    1,
+    2
+  ],
+  "test_accuracy": 0.768,
+  "test_macro_f1": 0.7151,
+  "train_samples": 11220,
+  "test_samples": 2806,
+  "sklearn_version": "1.9.0"
+}
